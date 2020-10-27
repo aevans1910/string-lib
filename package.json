@@ -1,0 +1,19 @@
+{
+  "name": "@aevans1910/string_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aevans1910/string-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aevans1910/string-lib/issues"
+  },
+  "homepage": "https://github.com/aevans1910/string-lib#readme"
+}
