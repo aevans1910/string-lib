@@ -1,6 +1,6 @@
 {
   "name": "@aevans1910/string_lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aevans1910/string-lib/issues"
   },
-  "homepage": "https://github.com/aevans1910/string-lib#readme"
+  "homepage": "https://github.com/aevans1910/string-lib#readme",
+  "dependencies": {
+    "eslint": "^7.12.1"
+  }
 }
