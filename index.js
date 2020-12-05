@@ -1,4 +1,4 @@
-const string = "hello world"
+const string = "hello"
 
 String.prototype.capitalize = function() {
     return this[0].toUpperCase() + this.slice(1)
@@ -55,9 +55,9 @@ String.prototype.camelCase = function() {
 // const result = string.camelCase()
 // console.log(result)
 
-String.prototype.shift = function(num) {
+String.prototype.shift = function(num = "1") {
     return this.slice(num) + this.substring(0, num)
 }
 
-// const result = string.shift(2)
-// console.log(result)
+const result = string.shift(3)
+console.log(result)
